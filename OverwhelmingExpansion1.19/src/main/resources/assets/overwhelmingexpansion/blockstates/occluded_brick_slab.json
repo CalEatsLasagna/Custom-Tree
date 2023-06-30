@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "overwhelmingexpansion:block/occluded_brick_slab"
+    },
+    "type=double": {
+      "model": "overwhelmingexpansion:block/occluded_brick"
+    },
+    "type=top": {
+      "model": "overwhelmingexpansion:block/occluded_brick_slab_top"
+    }
+  }
+}

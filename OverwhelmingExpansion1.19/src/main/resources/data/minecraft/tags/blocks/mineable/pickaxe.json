@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"overwhelmingexpansion:occluded_brick",
+		"overwhelmingexpansion:occluded_brick_stairs",
+		"overwhelmingexpansion:occluded_brick_slab",
+		"overwhelmingexpansion:occluded_brick_fence",
+		"overwhelmingexpansion:occluded_brick_fence_gate",
+		"overwhelmingexpansion:occluded_brick_wall",
+		"overwhelmingexpansion:occluded_stone"
+	]
+}

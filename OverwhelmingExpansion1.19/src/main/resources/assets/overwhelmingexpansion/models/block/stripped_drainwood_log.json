@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "overwhelmingexpansion:block/stripped_drainwood_log_top",
+    "side": "overwhelmingexpansion:block/stripped_drainwood_log"
+  }
+}

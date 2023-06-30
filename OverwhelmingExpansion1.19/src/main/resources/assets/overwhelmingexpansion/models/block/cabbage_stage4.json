@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "overwhelmingexpansion:block/cabbage_stage4"
+  }
+}

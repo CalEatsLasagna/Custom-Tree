@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"  #",
+  	" ##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "overwhelmingexpansion:drainwood_planks"
+    }
+  },
+  "result": {
+    "item": "overwhelmingexpansion:drainwood_stairs",
+    "count": 4
+  }
+}

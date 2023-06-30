@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "overwhelmingexpansion:block/occluded_brick",
+    "top": "overwhelmingexpansion:block/occluded_brick",
+    "side": "overwhelmingexpansion:block/occluded_brick"
+  }
+}

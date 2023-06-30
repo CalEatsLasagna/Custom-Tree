@@ -1,0 +1,28 @@
+{
+	"itemGroup.overwhelmingexpansion": "Overwhelming Expansion",
+	
+	"item.overwhelmingexpansion.cabbage": "Cabbage",	
+	"item.overwhelmingexpansion.cabbage_loaf": "Cabbage Loaf",
+	"item.overwhelmingexpansion.cabbage_seeds": "Cabbage Seeds",
+	"item.overwhelmingexpansion.lumincula_fluid_bucket": "Lumincula Bucket",
+	
+	"block.overwhelmingexpansion.occluded_dirt": "Occluded Dirt",		
+	"block.overwhelmingexpansion.occluded_stone": "Occluded Stone",	
+	"block.overwhelmingexpansion.occluded_gravel": "Occluded Gravel",
+	"block.overwhelmingexpansion.occluded_brick": "Occluded Brick",
+	"block.overwhelmingexpansion.occluded_brick_slab": "Occluded Brick Slab",
+	"block.overwhelmingexpansion.occluded_brick_stairs": "Occluded Brick Stairs",
+	"block.overwhelmingexpansion.occluded_brick_fence": "Occluded Brick Fence",
+	"block.overwhelmingexpansion.occluded_brick_fence_gate": "Occluded Brick Fence Gate",
+	"block.overwhelmingexpansion.occluded_brick_wall": "Occluded Brick Wall",
+	
+	"block.overwhelmingexpansion.drainwood_log": "Drainwood Log",
+	"block.overwhelmingexpansion.stripped_drainwood_log": "Stripped Drainwood Log",
+	"block.overwhelmingexpansion.drainwood_planks": "Drainwood Planks",
+	"block.overwhelmingexpansion.drainwood_slab": "Drainwood Slab",	
+	"block.overwhelmingexpansion.drainwood_stairs": "Drainwood Stairs",
+	"block.overwhelmingexpansion.drainwood_fence": "Drainwood Fence",	
+	"block.overwhelmingexpansion.drainwood_fence_gate": "Drainwood Fence Gate",
+	"block.overwhelmingexpansion.drainwood_leaves": "Drainwood Leaves",
+	"block.overwhelmingexpansion.drainwood_sapling": "Drainwood Sapling"	
+}

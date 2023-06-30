@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "overwhelmingexpansion:block/drainwood_planks",
+    "top": "overwhelmingexpansion:block/drainwood_planks",
+    "side": "overwhelmingexpansion:block/drainwood_planks"
+  }
+}

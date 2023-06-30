@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "overwhelmingexpansion:block/drainwood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "overwhelmingexpansion:block/drainwood_log"
+    },
+    "axis=z": {
+      "model": "overwhelmingexpansion:block/drainwood_log_horizontal",
+      "x": 90
+    }
+  }
+}

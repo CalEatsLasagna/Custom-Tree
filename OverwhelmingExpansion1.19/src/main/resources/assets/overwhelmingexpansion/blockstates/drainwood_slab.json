@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "overwhelmingexpansion:block/drainwood_slab"
+    },
+    "type=double": {
+      "model": "overwhelmingexpansion:block/drainwood_planks"
+    },
+    "type=top": {
+      "model": "overwhelmingexpansion:block/drainwood_slab_top"
+    }
+  }
+}

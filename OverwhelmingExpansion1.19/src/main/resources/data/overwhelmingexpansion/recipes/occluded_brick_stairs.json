@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"  #",
+  	" ##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "overwhelmingexpansion:occlued_brick"
+    }
+  },
+  "result": {
+    "item": "overwhelmingexpansion:occluded_brick_stairs",
+    "count": 4
+  }
+}

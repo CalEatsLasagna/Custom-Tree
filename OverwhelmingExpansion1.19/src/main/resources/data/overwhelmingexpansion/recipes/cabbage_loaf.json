@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "###"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:wheat"
+    },
+    "a":
+    {
+      "item": "overwhelmingexpansion:cabbage"
+    }
+  },
+  "result": {
+    "item": "overwhelmingexpansion:cabbage_loaf",
+    "count": 1
+  }
+}
